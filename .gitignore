@@ -1,2 +1,2 @@
-.idea/
-/**/.idea/
+# Ignore all .idea folders anywhere in the project
+**/.idea/
